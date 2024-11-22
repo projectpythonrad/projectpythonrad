@@ -1,5 +1,8 @@
 <h1><strong></strong>Alunos responsáveis pelo desenvolvimento do projeto.</strong></h1>
 <h3>Fernando Santana de Morais - 202304504164</h3>
+<h3>Everton Santana da Silva - 202303052121 </h3>
+<h3>Robert Santos Santana - 202303696949</h3>
+<h3>Anderson Teixeria Leal - 202303568312</h3>
 
 <h4>Tecnologias Ultilizadas:</h4>
 
